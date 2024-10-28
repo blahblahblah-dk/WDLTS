@@ -1,1 +1,2 @@
-## LTS is your personal AI therapist who asks, "How was your day?" and etc.
+## Intro
+LTS is your personal AI therapist who asks, "How was your day?" and etc.
